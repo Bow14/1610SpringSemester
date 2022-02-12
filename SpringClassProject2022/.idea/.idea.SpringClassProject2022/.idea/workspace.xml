@@ -12,6 +12,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/CodeAcadamyWorld.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ActivateScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ColorForPlayer.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -20,6 +21,7 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/ColorForPlayer.cs" />
         <option value="$PROJECT_DIR$/Assets/ActivateScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeAcadamyWorld.cs" />
       </list>
     </option>
   </component>
@@ -78,6 +80,7 @@
       <workItem from="1644466801078" duration="695000" />
       <workItem from="1644468328723" duration="990000" />
       <workItem from="1644555670666" duration="1394000" />
+      <workItem from="1644631992925" duration="807000" />
     </task>
     <servers />
   </component>
