@@ -21,11 +21,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/ColorForPlayer.cs" />
         <option value="$PROJECT_DIR$/Assets/ActivateScript.cs" />
         <option value="$PROJECT_DIR$/Assets/CodeAcadamyWorld.cs" />
         <option value="$PROJECT_DIR$/Assets/VariablesAndFunctions.cs" />
         <option value="$PROJECT_DIR$/Assets/Varaiconvert.cs" />
+        <option value="$PROJECT_DIR$/Assets/ColorForPlayer.cs" />
       </list>
     </option>
   </component>
@@ -87,6 +87,7 @@
       <workItem from="1644631992925" duration="807000" />
       <workItem from="1644981726477" duration="564000" />
       <workItem from="1645252684467" duration="118000" />
+      <workItem from="1645511972070" duration="3746000" />
     </task>
     <servers />
   </component>

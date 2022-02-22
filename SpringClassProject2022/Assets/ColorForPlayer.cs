@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -14,6 +15,10 @@ public class ColorForPlayer : MonoBehaviour {
 		if (Input.GetKeyDown(KeyCode.G))
 		{
 			GetComponent<Renderer> ().material.color = Color.green;
+			if (Color.green = new Color())
+			{
+				Console.WriteLine("Wow super Green");
+			}
 		}
 		if (Input.GetKeyDown(KeyCode.B))
 		{
