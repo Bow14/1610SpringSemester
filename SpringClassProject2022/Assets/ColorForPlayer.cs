@@ -15,20 +15,21 @@ public class ColorForPlayer : MonoBehaviour {
 		if (Input.GetKeyDown(KeyCode.G))
 		{
 			GetComponent<Renderer> ().material.color = Color.green;
-			if (Color.green = new Color())
-			{
-				Console.WriteLine("Wow super Green");
-			}
+			bool isGreen = true;
+
+			Debug.Log("Glad your green Bro!");
 		}
 		if (Input.GetKeyDown(KeyCode.B))
 		{
 			GetComponent<Renderer>().material.color = Color.black;
+			Debug.Log("Welcome to the true faction");
 			
 		}
 
 		if (Input.GetKeyDown(KeyCode.Y))
 		{
 			GetComponent<Renderer>().material.color = Color.yellow;
+			Debug.Log("Yellow will prove to be dominate");
 		}
 	}
 }
