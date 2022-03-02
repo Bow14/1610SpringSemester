@@ -15,6 +15,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Varaiconvert.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Loop.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/VariablesAndFunctions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Arrays.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/CodeAcadamyWorld.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ActivateScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ifstatmentTest.cs" root0="FORCE_HIGHLIGHTING" />
@@ -30,6 +31,7 @@
         <option value="$PROJECT_DIR$/Assets/ColorForPlayer.cs" />
         <option value="$PROJECT_DIR$/Assets/ifstatmentTest.cs" />
         <option value="$PROJECT_DIR$/Assets/Loop.cs" />
+        <option value="$PROJECT_DIR$/Assets/Arrays.cs" />
       </list>
     </option>
   </component>
@@ -97,6 +99,7 @@
       <workItem from="1645597401982" duration="639000" />
       <workItem from="1645763806443" duration="2519000" />
       <workItem from="1646184914286" duration="1116000" />
+      <workItem from="1646212288584" duration="1027000" />
     </task>
     <servers />
   </component>
