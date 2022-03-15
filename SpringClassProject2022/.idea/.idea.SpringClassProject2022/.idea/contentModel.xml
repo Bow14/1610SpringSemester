@@ -13,7 +13,10 @@
         <e p="ColorForPlayer.cs" t="Include" />
         <e p="ifstatmentTest.cs" t="Include" />
         <e p="Loop.cs" t="Include" />
+<<<<<<< HEAD
         <e p="MovementScript.cs" t="Include" />
+=======
+>>>>>>> main
         <e p="onTrigger.cs" t="Include" />
         <e p="Varaiconvert.cs" t="Include" />
         <e p="VariablesAndFunctions.cs" t="Include" />
