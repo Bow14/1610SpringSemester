@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\huffn\.Rider2019.2\system\extResources" t="IncludeRecursive" />
@@ -10,10 +10,11 @@
           <e p="_Source_Files" t="Include">
             <e p="_LICENSE.txt" t="Include" />
           </e>
-          <e p="Scripts" t="Include">
-            <e p="ObjectPhysics.cs" t="Include" />
-            <e p="PlayerController.cs" t="Include" />
-          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="FollowPlayer.cs" t="Include" />
+          <e p="ObjectPhysics.cs" t="Include" />
+          <e p="PlayerController.cs" t="Include" />
         </e>
       </e>
       <e p="obj" t="ExcludeRecursive" />
