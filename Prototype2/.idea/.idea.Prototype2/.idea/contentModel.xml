@@ -15,6 +15,7 @@
           <e p="Destroyoutofbounds.cs" t="Include" />
           <e p="MoveFowrward.cs" t="Include" />
           <e p="PlayerController.cs" t="Include" />
+          <e p="SpawnManger.cs" t="Include" />
         </e>
       </e>
       <e p="obj" t="ExcludeRecursive" />
