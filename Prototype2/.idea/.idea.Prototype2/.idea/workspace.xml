@@ -16,14 +16,16 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Destroyoutofbounds.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveFowrward.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SpawnManger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DetectCollisons.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/MoveFowrward.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Destroyoutofbounds.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SpawnManger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DetectCollisons.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Destroyoutofbounds.cs" />
       </list>
     </option>
   </component>
@@ -82,6 +84,7 @@
       <workItem from="1648005385837" duration="2848000" />
       <workItem from="1648008713579" duration="1541000" />
       <workItem from="1648010348140" duration="2255000" />
+      <workItem from="1648012695212" duration="3023000" />
     </task>
     <servers />
   </component>

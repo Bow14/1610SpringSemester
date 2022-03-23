@@ -32,4 +32,6 @@ public class PlayerController : MonoBehaviour
          Instantiate(projectilePrefab, transform.position, projectilePrefab.transform.rotation);
         }
     }
+
+   
 }

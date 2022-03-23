@@ -4905,6 +4905,9 @@ GameObject:
   - component: {fileID: 6699317030119482448}
   - component: {fileID: 6699317029801150826}
   - component: {fileID: 5292991819868099471}
+  - component: {fileID: -193736386635725896}
+  - component: {fileID: -8810349116082084498}
+  - component: {fileID: 228075417868782805}
   m_Layer: 0
   m_Name: Dog_SaintBernard_01
   m_TagString: Untagged
@@ -5007,6 +5010,47 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 42147b7f10bdf4c4ea4e1c785141c9c0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!65 &-193736386635725896
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6699317030110084448}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!54 &-8810349116082084498
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6699317030110084448}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!114 &228075417868782805
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6699317030110084448}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3c647890725f3e4cb7cf968ff23e283, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &6699317030110085916
 GameObject:
   m_ObjectHideFlags: 0
@@ -5048,6 +5092,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6699317030109745896}
   - component: {fileID: 6699317030115282906}
+  - component: {fileID: 5025542642598835187}
   m_Layer: 0
   m_Name: SM_SaintBernard_01
   m_TagString: Untagged
@@ -5166,6 +5211,19 @@ SkinnedMeshRenderer:
     m_Center: {x: -0.0000000018626451, y: -0.02942187, z: 0.09284967}
     m_Extent: {x: 0.060743935, y: 0.10395722, z: 0.13604975}
   m_DirtyAABB: 0
+--- !u!65 &5025542642598835187
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6699317030110087564}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.12148788, y: 0.20791444, z: 0.2720995}
+  m_Center: {x: -0.0000000018626451, y: 0.1039572, z: 0.00095921755}
 --- !u!1 &6699317030110088162
 GameObject:
   m_ObjectHideFlags: 0
