@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\huffn\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\huffn\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Prototype3.-288576263.00" t="ExcludeRecursive" />
+    <e p="C:\Users\huffn\Documents\Git repo\1610-Springt2022\1610SpringSemester\Prototype3" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Course Library" t="Include">
+          <e p="_Source_Files" t="Include">
+            <e p="_LICENSE.txt" t="Include" />
+            <e p="Materials" t="Include">
+              <e p="UnlitVertexColour_Alpha.shader" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="MoveLeft.cs" t="Include" />
+          <e p="PlayerController.cs" t="Include" />
+          <e p="SpawnManger.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Prototype3.sln" t="IncludeFlat" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
