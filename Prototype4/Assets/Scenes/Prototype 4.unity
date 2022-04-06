@@ -282,6 +282,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemyPrefab: {fileID: 2190520653519355938, guid: 64d3aaabb151ca14281f03fa1ae793e7, type: 3}
+  enemyCount: 0
+  waveNumber: 1
+  powerupPrefab: {fileID: 5426241313647147207, guid: 3cf9047cc87b0e7428583e02a71486a2, type: 3}
 --- !u!4 &232363902
 Transform:
   m_ObjectHideFlags: 0
@@ -616,7 +619,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4740640696147648, guid: 1656aec7f2b3ffe45a91801f58b00253, type: 3}
       propertyPath: m_RootOrder
-      value: 8
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 4740640696147648, guid: 1656aec7f2b3ffe45a91801f58b00253, type: 3}
       propertyPath: m_LocalScale.x
@@ -773,7 +776,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5429436088439553833, guid: 3cf9047cc87b0e7428583e02a71486a2, type: 3}
       propertyPath: m_RootOrder
-      value: 7
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 5429436088439553833, guid: 3cf9047cc87b0e7428583e02a71486a2, type: 3}
       propertyPath: m_LocalPosition.x

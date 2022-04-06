@@ -21,9 +21,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/RotateCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/PlayerController.cs" />
         <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/Enemy.cs" />
         <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/SpawnManger.cs" />
-        <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/PlayerController.cs" />
       </list>
     </option>
   </component>
@@ -82,6 +82,7 @@
       <workItem from="1649200823602" duration="2507000" />
       <workItem from="1649207013140" duration="2075000" />
       <workItem from="1649209640614" duration="2403000" />
+      <workItem from="1649213356253" duration="1056000" />
     </task>
     <servers />
   </component>
