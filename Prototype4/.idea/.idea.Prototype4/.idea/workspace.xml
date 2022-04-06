@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bf03475-cf87-4aee-b234-065b8093c779" name="Default Changelist" comment="" />
@@ -13,7 +13,8 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Course Library/Scripts/RotateCamera.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Course Library/Scripts/Enemy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Course Library/Scripts/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Course Library/Scripts/SpawnManger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Course Library/Scripts/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -21,6 +22,8 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/RotateCamera.cs" />
         <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/SpawnManger.cs" />
       </list>
     </option>
   </component>
@@ -76,7 +79,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1649200818544</updated>
-      <workItem from="1649200823602" duration="2363000" />
+      <workItem from="1649200823602" duration="2507000" />
+      <workItem from="1649207013140" duration="2075000" />
     </task>
     <servers />
   </component>
@@ -90,7 +94,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
