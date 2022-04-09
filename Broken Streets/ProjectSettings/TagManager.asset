@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Bomb
+  - PowerUp
+  - PowerUpInd
   layers:
   - Default
   - TransparentFX

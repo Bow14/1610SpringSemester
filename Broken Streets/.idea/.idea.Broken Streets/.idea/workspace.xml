@@ -13,8 +13,8 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NewScriptFold/Shield.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/NewScriptFold/BombScripts.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/NewScriptFold/Timer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/NewScriptFold/CarDriving.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -24,9 +24,10 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/CarDriving.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FollowPlayer.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Bomb Scripts.cs" />
-        <option value="$PROJECT_DIR$/Assets/NewScriptFold/CarDriving.cs" />
         <option value="$PROJECT_DIR$/Assets/NewScriptFold/BombScripts.cs" />
         <option value="$PROJECT_DIR$/Assets/NewScriptFold/Timer.cs" />
+        <option value="$PROJECT_DIR$/Assets/NewScriptFold/Shield.cs" />
+        <option value="$PROJECT_DIR$/Assets/NewScriptFold/CarDriving.cs" />
       </list>
     </option>
   </component>
@@ -89,6 +90,7 @@
       <workItem from="1649456999207" duration="1377000" />
       <workItem from="1649466102826" duration="146000" />
       <workItem from="1649466274730" duration="5218000" />
+      <workItem from="1649472535905" duration="3489000" />
     </task>
     <servers />
   </component>

@@ -11,6 +11,9 @@ public class CarDriving : MonoBehaviour
     public Vector3 forward;
     public Vector3 backward;
 
+    public GameObject powerUpIndictator;
+    public bool hasPowerUp = false;
+
 
     private void Start()
     {
@@ -38,7 +41,27 @@ public class CarDriving : MonoBehaviour
         {
             playerRB.AddRelativeTorque(right, ForceMode.Acceleration);
         }
+
+        powerUpIndictator.transform.position = transform.position + new Vector3(.7f, .08f, .1f);
     }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.CompareTag("PowerUp"))
+        {
+            hasPowerUp = true;
+            powerUpIndictator.gameObject.SetActive(true);
+            Destroy(other.gameObject);
+            Debug.Log("You have interacted with me");
+        }
+    }
+
+//    IEnumerator PowerUpIndicator()
+//    {
+//        powerUpInd.gameObject.SetActive(false);
+//    }
+    
+
 
 //    private void OnCollisionEnter(Collision other)
 //    {
