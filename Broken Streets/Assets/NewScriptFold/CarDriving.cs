@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -9,7 +10,13 @@ public class CarDriving : MonoBehaviour
     public Rigidbody playerRB;
     public Vector3 forward;
     public Vector3 backward;
-    
+
+
+    private void Start()
+    {
+        playerRB = GetComponent<Rigidbody>();
+    }
+
     void Update()
     {
         if (Input.GetKey(KeyCode.UpArrow))
@@ -32,4 +39,9 @@ public class CarDriving : MonoBehaviour
             playerRB.AddRelativeTorque(right, ForceMode.Acceleration);
         }
     }
+
+//    private void OnCollisionEnter(Collision other)
+//    {
+//        GameObject.Find("Player");
+//    }
 }
