@@ -684,7 +684,7 @@ GameObject:
   - component: {fileID: 1655278660}
   - component: {fileID: 1655278661}
   m_Layer: 0
-  m_Name: GameManger
+  m_Name: Game Manger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -860,7 +860,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Score Text:
+  m_text: 'Score:
 
 '
   m_isRightToLeft: 0
