@@ -42,7 +42,8 @@ public class CarDriving : MonoBehaviour
             playerRB.AddRelativeTorque(right, ForceMode.Acceleration);
         }
 
-        powerUpIndictator.transform.position = transform.position + new Vector3(.7f, .08f, .1f);
+        powerUpIndictator.transform.position = transform.position + new Vector3(0, 0, 0);
+        powerUpIndictator.transform.rotation = transform.rotation;
     }
 
     private void OnTriggerEnter(Collider other)
