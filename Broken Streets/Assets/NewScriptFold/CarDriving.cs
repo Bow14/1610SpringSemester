@@ -55,6 +55,7 @@ public class CarDriving : MonoBehaviour
             Destroy(other.gameObject);
             Debug.Log("You have interacted with me");
         }
+        
     }
 
 //    IEnumerator PowerUpIndicator()
