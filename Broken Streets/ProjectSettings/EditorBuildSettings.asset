@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/BrokenStreets.unity
+    guid: 9d3e5a6d4e95b0d4eb15373a4daa3ae8
   m_configObjects: {}
