@@ -308,9 +308,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2142476134}
     m_Modifications:
+    - target: {fileID: 1261485301419776988, guid: 02ddff0875cb54f45847428f28dee578, type: 3}
+      propertyPath: playerCar
+      value: 
+      objectReference: {fileID: 892819054}
     - target: {fileID: 4524682004933906489, guid: 02ddff0875cb54f45847428f28dee578, type: 3}
       propertyPath: m_Name
       value: Bomb 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 6136337325902219415, guid: 02ddff0875cb54f45847428f28dee578, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6136337325902219415, guid: 02ddff0875cb54f45847428f28dee578, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8220249947359813516, guid: 02ddff0875cb54f45847428f28dee578, type: 3}
       propertyPath: m_RootOrder
@@ -440,9 +452,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2142476134}
     m_Modifications:
+    - target: {fileID: 1261485301419776988, guid: 02ddff0875cb54f45847428f28dee578, type: 3}
+      propertyPath: playerCar
+      value: 
+      objectReference: {fileID: 892819054}
     - target: {fileID: 4524682004933906489, guid: 02ddff0875cb54f45847428f28dee578, type: 3}
       propertyPath: m_Name
       value: Bomb 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6136337325902219415, guid: 02ddff0875cb54f45847428f28dee578, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6136337325902219415, guid: 02ddff0875cb54f45847428f28dee578, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8220249947359813516, guid: 02ddff0875cb54f45847428f28dee578, type: 3}
       propertyPath: m_RootOrder
@@ -728,9 +752,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2142476134}
     m_Modifications:
+    - target: {fileID: 1261485301419776988, guid: 02ddff0875cb54f45847428f28dee578, type: 3}
+      propertyPath: playerCar
+      value: 
+      objectReference: {fileID: 892819054}
     - target: {fileID: 4524682004933906489, guid: 02ddff0875cb54f45847428f28dee578, type: 3}
       propertyPath: m_Name
       value: Bomb 7 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6136337325902219415, guid: 02ddff0875cb54f45847428f28dee578, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6136337325902219415, guid: 02ddff0875cb54f45847428f28dee578, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8220249947359813516, guid: 02ddff0875cb54f45847428f28dee578, type: 3}
       propertyPath: m_RootOrder
@@ -1054,9 +1090,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2142476134}
     m_Modifications:
+    - target: {fileID: 1261485301419776988, guid: 02ddff0875cb54f45847428f28dee578, type: 3}
+      propertyPath: playerCar
+      value: 
+      objectReference: {fileID: 892819054}
     - target: {fileID: 4524682004933906489, guid: 02ddff0875cb54f45847428f28dee578, type: 3}
       propertyPath: m_Name
       value: Bomb4
+      objectReference: {fileID: 0}
+    - target: {fileID: 6136337325902219415, guid: 02ddff0875cb54f45847428f28dee578, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6136337325902219415, guid: 02ddff0875cb54f45847428f28dee578, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8220249947359813516, guid: 02ddff0875cb54f45847428f28dee578, type: 3}
       propertyPath: m_RootOrder
@@ -1609,9 +1657,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2142476134}
     m_Modifications:
+    - target: {fileID: 1261485301419776988, guid: 02ddff0875cb54f45847428f28dee578, type: 3}
+      propertyPath: playerCar
+      value: 
+      objectReference: {fileID: 892819054}
     - target: {fileID: 4524682004933906489, guid: 02ddff0875cb54f45847428f28dee578, type: 3}
       propertyPath: m_Name
       value: Bomb 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 6136337325902219415, guid: 02ddff0875cb54f45847428f28dee578, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6136337325902219415, guid: 02ddff0875cb54f45847428f28dee578, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8220249947359813516, guid: 02ddff0875cb54f45847428f28dee578, type: 3}
       propertyPath: m_RootOrder
@@ -2307,9 +2367,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2142476134}
     m_Modifications:
+    - target: {fileID: 1261485301419776988, guid: 02ddff0875cb54f45847428f28dee578, type: 3}
+      propertyPath: playerCar
+      value: 
+      objectReference: {fileID: 892819054}
     - target: {fileID: 4524682004933906489, guid: 02ddff0875cb54f45847428f28dee578, type: 3}
       propertyPath: m_Name
       value: Bomb3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6136337325902219415, guid: 02ddff0875cb54f45847428f28dee578, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6136337325902219415, guid: 02ddff0875cb54f45847428f28dee578, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8220249947359813516, guid: 02ddff0875cb54f45847428f28dee578, type: 3}
       propertyPath: m_RootOrder
@@ -2538,9 +2610,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2142476134}
     m_Modifications:
+    - target: {fileID: 1261485301419776988, guid: 02ddff0875cb54f45847428f28dee578, type: 3}
+      propertyPath: playerCar
+      value: 
+      objectReference: {fileID: 892819054}
     - target: {fileID: 4524682004933906489, guid: 02ddff0875cb54f45847428f28dee578, type: 3}
       propertyPath: m_Name
       value: Bomb 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6136337325902219415, guid: 02ddff0875cb54f45847428f28dee578, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6136337325902219415, guid: 02ddff0875cb54f45847428f28dee578, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8220249947359813516, guid: 02ddff0875cb54f45847428f28dee578, type: 3}
       propertyPath: m_RootOrder
@@ -2790,9 +2874,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2142476134}
     m_Modifications:
+    - target: {fileID: 1261485301419776988, guid: 02ddff0875cb54f45847428f28dee578, type: 3}
+      propertyPath: playerCar
+      value: 
+      objectReference: {fileID: 892819054}
     - target: {fileID: 4524682004933906489, guid: 02ddff0875cb54f45847428f28dee578, type: 3}
       propertyPath: m_Name
       value: Bomb2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6136337325902219415, guid: 02ddff0875cb54f45847428f28dee578, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6136337325902219415, guid: 02ddff0875cb54f45847428f28dee578, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8220249947359813516, guid: 02ddff0875cb54f45847428f28dee578, type: 3}
       propertyPath: m_RootOrder
